@@ -131,22 +131,6 @@ class ShivrajT:
     currently_open_to = ["SDE roles", "Backend Engineer", "Python Developer", "ML Engineer"]
 ```
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Shivraj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shivraj-crypto&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shivraj-crypto&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=Shivraj-crypto&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
 ## 🌐 Live Products
 
 | Product | Link | Status |
