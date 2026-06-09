@@ -10,7 +10,7 @@
 
 ## 👋 About Me
 
-Backend engineer from Mumbai, building reliable Python/FastAPI systems and shipping real products. My headline project is **WealthMate AI** — a production app on the Play Store with a RAG-powered backend, React frontend, and active users.
+Backend Engineer from Mumbai building reliable backend systems and AI-powered products. Currently building WealthMate AI, a Play Store app with 50+ MAU, powered by Python, FastAPI, RAG, and React.
 
 - 🛠️ **Core:** Python · FastAPI · PostgreSQL · Redis · AWS
 - 🐳 **DevOps:** Docker · Linux · Fastlane · CI/CD basics
@@ -50,7 +50,7 @@ Backend engineer from Mumbai, building reliable Python/FastAPI systems and shipp
 ### 💰 WealthMate AI — Production Finance App
 > **Python · FastAPI · RAG · React · Play Store**
 
-Live AI-powered finance app with a RAG backend, React frontend, and real users on Android.
+Live AI-powered finance Socks Tracking application with a RAG backend, React frontend, and real users on Android.
 
 [![Website](https://img.shields.io/badge/Live-00C896?style=for-the-badge&logo=googlechrome&logoColor=white)](http://www.wealthmateai.com)
 [![Play Store](https://img.shields.io/badge/Play%20Store-34A853?style=for-the-badge&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.wmv4)
