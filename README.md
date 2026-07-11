@@ -25,18 +25,20 @@ Backend engineer building reliable systems and AI-powered products. Currently bu
 
 | | |
 |---|---|
-| **Backend** | Python · FastAPI |
-| **Database** | PostgreSQL · SQLite · Redis · MySQL |
-| **Cloud / DevOps** | AWS · Docker · Linux · Fastlane |
+| **Backend** | Python · FastAPI · REST APIs · Pydantic · SQLAlchemy |
+| **Database** | PostgreSQL · SQLite · Redis |
+| **Authentication & Security** | JWT · OAuth 2.0 · bcrypt/passlib |
+| **Cloud / DevOps** | Docker · AWS (EC2, S3) · Nginx · Git/GitHub · CI/CD · Fastlane |
 | **Frontend** | React · JavaScript |
 | **AI / ML** | RAG systems · OpenCV · NumPy |
+| **Environment ** | Linux (Ubuntu) |
 
 ---
 
 ## Projects
 
 **[WealthMate AI](http://www.wealthmateai.com)** — Production finance app - 
-Python · FastAPI · RAG · React. Live on the [Play Store](https://play.google.com/store/apps/details?id=com.wmv4) with 50+ MAU.
+Python · FastAPI · RAG · React. Live on the [Play Store](https://play.google.com/store/apps/details?id=com.wmv4) · 50+ MAU · Production deployment.
 
 **[SmartScrapeV8](https://github.com/Shivraj-crypto/SmartScrapeV8)** — Heuristic-first data pipeline
 Python · Gemini API. Heuristic extraction with LLM fallback only when confidence is low, plus batch mode with throttling and error handling.
