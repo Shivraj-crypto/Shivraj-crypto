@@ -31,7 +31,7 @@ Backend engineer building reliable systems and AI-powered products. Currently bu
 | **Cloud / DevOps** | Docker · AWS (EC2, S3) · Nginx · Git/GitHub · CI/CD · Fastlane |
 | **Frontend** | React · JavaScript |
 | **AI / ML** | RAG systems · OpenCV · NumPy |
-| **Environment ** | Linux (Ubuntu) |
+| **Environment** | Linux (Ubuntu) |
 
 ---
 
