@@ -26,7 +26,7 @@ Backend engineer building reliable systems and AI-powered products. Currently bu
 | | |
 |---|---|
 | **Backend** | Python · FastAPI · REST APIs · Pydantic · SQLAlchemy |
-| **Database** | PostgreSQL · SQLite · Redis |
+| **Database** | PostgreSQL · SQLite · Redis · Alembic |
 | **Authentication & Security** | JWT · OAuth 2.0 · bcrypt/passlib |
 | **Cloud / DevOps** | Docker · AWS (EC2, S3) · Nginx · Git/GitHub · CI/CD · Fastlane |
 | **Frontend** | React · JavaScript |
